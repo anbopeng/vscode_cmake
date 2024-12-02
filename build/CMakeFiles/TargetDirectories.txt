@@ -1,0 +1,3 @@
+D:/workspace/test-cmake-vscode/build/CMakeFiles/MyCProject.dir
+D:/workspace/test-cmake-vscode/build/CMakeFiles/edit_cache.dir
+D:/workspace/test-cmake-vscode/build/CMakeFiles/rebuild_cache.dir

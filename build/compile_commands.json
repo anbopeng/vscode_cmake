@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/workspace/test-cmake-vscode/build",
+  "command": "C:/msys64/ucrt64/bin/gcc.exe  @CMakeFiles/MyCProject.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles/MyCProject.dir/main.c.obj -c D:/workspace/test-cmake-vscode/main.c",
+  "file": "D:/workspace/test-cmake-vscode/main.c",
+  "output": "CMakeFiles/MyCProject.dir/main.c.obj"
+},
+{
+  "directory": "D:/workspace/test-cmake-vscode/build",
+  "command": "C:/msys64/ucrt64/bin/gcc.exe  @CMakeFiles/MyCProject.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles/MyCProject.dir/src/function.c.obj -c D:/workspace/test-cmake-vscode/src/function.c",
+  "file": "D:/workspace/test-cmake-vscode/src/function.c",
+  "output": "CMakeFiles/MyCProject.dir/src/function.c.obj"
+}
+]
