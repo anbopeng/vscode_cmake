@@ -3,5 +3,7 @@
 
 
 void check_endian(void);
+void print_array(int *data, int length);
+
 
 #endif

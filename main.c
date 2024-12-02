@@ -106,11 +106,7 @@ void sort_array( int *data, int length)
 
 }
 
-void print_array(int *data, int length)
-{
-    for (int i = 0; i < length; i++)
-        printf("data[%d]:%d\r\n", i, data[i]);
-}
+
 
 
 
